@@ -58,6 +58,5 @@ Images:
 <img width="370" alt="Screenshot 2023-10-08 at 8 38 06 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/16277113-07e5-45af-a2a3-302488a494b2">
 <img width="367" alt="Screenshot 2023-10-08 at 8 37 20 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/7014cf4c-93f3-4ca5-8253-b418061baa37">
 <img width="348" alt="Screenshot 2023-10-08 at 8 22 24 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/8b647256-6ba6-4c05-977a-6d4739ab45e8">
-<img width="644" alt="Screenshot 2023-10-08 at 8 22 13 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/027f2fa7-6a39-4edd-9ae9-397f1c5f124d">
 
 
