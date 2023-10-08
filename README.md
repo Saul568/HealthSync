@@ -46,3 +46,23 @@ We envision HealthSync evolving into a holistic health platform. Future updates 
 - Enhanced AI-driven insights to provide personalized health tips and recommendations.
 
 Together, we aim to make HealthSync the go-to app for all health-related needs.
+
+---
+
+Images:
+
+<img width="377" alt="Screenshot 2023-10-08 at 8 42 18 AM 2" src="https://github.com/Saul568/HealthSync/assets/144857955/bf72c480-427f-4d53-bc67-ebaca8b59786">
+<img width="377" alt="Screenshot 2023-10-08 at 8 42 18 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/c0dfb581-8442-40b8-898e-273cd48e08f5">
+<img width="372" alt="Screenshot 2023-10-08 at 8 41 56 AM 2" src="https://github.com/Saul568/HealthSync/assets/144857955/af8ba6f3-3340-4af6-b10d-8fcbe58114ae">
+<img width="372" alt="Screenshot 2023-10-08 at 8 41 56 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/fcf4ccef-4d8f-4101-a57e-8a0241445c24">
+<img width="369" alt="Screenshot 2023-10-08 at 8 41 42 AM 2" src="https://github.com/Saul568/HealthSync/assets/144857955/f9465324-a218-43e2-a9df-388c6b623982">
+<img width="369" alt="Screenshot 2023-10-08 at 8 41 42 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/30f6daeb-8ddd-493f-be74-ec381afb2371">
+<img width="370" alt="Screenshot 2023-10-08 at 8 41 30 AM 2" src="https://github.com/Saul568/HealthSync/assets/144857955/cba2013d-37f8-46a1-81ba-12f87d8ccad2">
+<img width="370" alt="Screenshot 2023-10-08 at 8 41 30 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/4a2e49e8-6acb-4d80-b618-ae3b76296911">
+<img width="370" alt="Screenshot 2023-10-08 at 8 38 06 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/16277113-07e5-45af-a2a3-302488a494b2">
+<img width="367" alt="Screenshot 2023-10-08 at 8 37 20 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/7014cf4c-93f3-4ca5-8253-b418061baa37">
+<img width="348" alt="Screenshot 2023-10-08 at 8 22 24 AM 2" src="https://github.com/Saul568/HealthSync/assets/144857955/d04bce1a-dd00-4241-80b5-7ebb8c93f0e8">
+<img width="348" alt="Screenshot 2023-10-08 at 8 22 24 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/8b647256-6ba6-4c05-977a-6d4739ab45e8">
+<img width="644" alt="Screenshot 2023-10-08 at 8 22 13 AM" src="https://github.com/Saul568/HealthSync/assets/144857955/027f2fa7-6a39-4edd-9ae9-397f1c5f124d">
+
+
